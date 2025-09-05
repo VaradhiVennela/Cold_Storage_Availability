@@ -4,7 +4,7 @@
 The Cold Storage Availability project is a comprehensive platform designed to educate farmers about cold storage techniques to maximize crop preservation and reduce post-harvest losses. The platform offers practical classes, resources, and information about cold storage technologies specifically tailored for agricultural needs.
 
 ## Project Structure
-This repository contains two main components:
+This repository contains two main components: 
 
 1. **Static HTML Website** - A fully functional website with information about cold storage classes and techniques
 2. **React Application** - A modern React implementation of the same platform (in development)
